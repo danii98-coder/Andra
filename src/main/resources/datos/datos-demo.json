@@ -1,0 +1,1622 @@
+{
+ "v": 5,
+ "ctx": {
+  "sede": "capilla",
+  "fac": "all"
+ },
+ "pagos": [
+  {
+   "id": "PAG-2026-004821",
+   "user": "2024207009",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pendiente",
+   "creado": "2026-10-19T18:42",
+   "vence": "2026-10-24",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-004903",
+   "user": "2024207009",
+   "tipo": "tramite",
+   "tupa": "t-rez",
+   "concepto": "Derecho de examen de rezagados · INF239",
+   "items": [
+    [
+     "Derecho de examen de rezagados · INF239 Algoritmos Complejos",
+     1,
+     20
+    ]
+   ],
+   "estado": "pendiente",
+   "creado": "2026-10-20T08:15",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-003112",
+   "user": "2024207009",
+   "tipo": "documento",
+   "tupa": "t-cert",
+   "concepto": "Certificado oficial de notas",
+   "items": [
+    [
+     "Certificado de estudios (2024-2 al 2026-1)",
+     1,
+     38
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-09-22T09:10",
+   "pagado": "2026-09-22T09:14",
+   "metodo": "yape",
+   "op": "YP48201933",
+   "boleta": "B001-002871",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-001877",
+   "user": "2024207009",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-1",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-1",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-03-08T10:02",
+   "pagado": "2026-03-10T16:40",
+   "metodo": "plin",
+   "op": "PL77120458",
+   "boleta": "B001-001204",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-002450",
+   "user": "2024207009",
+   "tipo": "documento",
+   "tupa": "t-cest",
+   "concepto": "Constancia de estudios",
+   "items": [
+    [
+     "Constancia de estudios",
+     1,
+     15
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-08-05T11:20",
+   "pagado": "2026-08-05T11:23",
+   "metodo": "visa",
+   "op": "VS30982211",
+   "boleta": "B001-002203",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005200",
+   "user": "2023104512",
+   "tipo": "documento",
+   "tupa": "t-cest",
+   "concepto": "Constancia de estudios",
+   "items": [
+    [
+     "Constancia de estudios",
+     1,
+     15
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-20T08:00",
+   "pagado": "2026-10-20T08:04",
+   "metodo": "yape",
+   "op": "OP81020000",
+   "boleta": "B001-003000",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005201",
+   "user": "2023104512",
+   "tipo": "documento",
+   "tupa": "t-record",
+   "concepto": "Récord académico",
+   "items": [
+    [
+     "Récord académico",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-15T09:13",
+   "pagado": "2026-10-15T09:17",
+   "metodo": "plin",
+   "op": "OP81020031",
+   "boleta": "B001-003001",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005202",
+   "user": "2022301877",
+   "tipo": "documento",
+   "tupa": "t-cnoad",
+   "concepto": "Constancia de no adeudo",
+   "items": [
+    [
+     "Constancia de no adeudo",
+     1,
+     10
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-17T09:07",
+   "pagado": "2026-10-17T09:11",
+   "metodo": "plin",
+   "op": "OP81020977",
+   "boleta": "B001-003002",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005203",
+   "user": "2022301877",
+   "tipo": "carne",
+   "tupa": "t-carne",
+   "concepto": "Carné universitario",
+   "items": [
+    [
+     "Carné universitario",
+     1,
+     25
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-12T10:20",
+   "pagado": "2026-10-12T10:24",
+   "metodo": "visa",
+   "op": "OP81021008",
+   "boleta": "B001-003003",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005204",
+   "user": "2024118230",
+   "tipo": "documento",
+   "tupa": "t-cert",
+   "concepto": "Certificado de estudios",
+   "items": [
+    [
+     "Certificado de estudios",
+     1,
+     50
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-14T10:14",
+   "pagado": "2026-10-14T10:18",
+   "metodo": "visa",
+   "op": "OP81021954",
+   "boleta": "B001-003004",
+   "vence": "2026-10-23",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005205",
+   "user": "2024118230",
+   "tipo": "documento",
+   "tupa": "t-cmat",
+   "concepto": "Constancia de matrícula",
+   "items": [
+    [
+     "Constancia de matrícula",
+     1,
+     10
+    ]
+   ],
+   "estado": "pendiente",
+   "creado": "2026-10-18T11:27",
+   "pagado": null,
+   "metodo": null,
+   "op": null,
+   "boleta": null,
+   "vence": "2026-10-23",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005206",
+   "user": "2021209944",
+   "tipo": "documento",
+   "tupa": "t-silabo",
+   "concepto": "Sílabos certificados",
+   "items": [
+    [
+     "Sílabos certificados (3 cursos)",
+     3,
+     5
+    ]
+   ],
+   "estado": "pendiente",
+   "creado": "2026-10-20T11:21",
+   "pagado": null,
+   "metodo": null,
+   "op": null,
+   "boleta": null,
+   "vence": "2026-10-23",
+   "sede": "salida-cuzco"
+  },
+  {
+   "id": "PAG-2026-005207",
+   "user": "2021209944",
+   "tipo": "documento",
+   "tupa": "t-malla",
+   "concepto": "Malla curricular certificada",
+   "items": [
+    [
+     "Malla curricular certificada",
+     1,
+     15
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-15T12:34",
+   "pagado": "2026-10-15T12:38",
+   "metodo": "mastercard",
+   "op": "OP81022962",
+   "boleta": "B001-003007",
+   "vence": "2026-10-23",
+   "sede": "salida-cuzco"
+  },
+  {
+   "id": "PAG-2026-005208",
+   "user": "2023307615",
+   "tipo": "documento",
+   "tupa": "t-ctrab",
+   "concepto": "Constancia de trabajo",
+   "items": [
+    [
+     "Constancia de trabajo",
+     1,
+     15
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-17T12:28",
+   "pagado": "2026-10-17T12:32",
+   "metodo": "mastercard",
+   "op": "OP81023908",
+   "boleta": "B001-003008",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005209",
+   "user": "2023307615",
+   "tipo": "documento",
+   "tupa": "t-copia",
+   "concepto": "Copia certificada de resolución",
+   "items": [
+    [
+     "Copia certificada de resolución",
+     1,
+     10
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-12T13:41",
+   "pagado": "2026-10-12T13:45",
+   "metodo": "yape",
+   "op": "OP81023939",
+   "boleta": "B001-003009",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005210",
+   "user": "2024402281",
+   "tipo": "documento",
+   "tupa": "t-verif",
+   "concepto": "Constancia de verificación de grado o título",
+   "items": [
+    [
+     "Constancia de verificación de grado o título",
+     1,
+     15
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-14T13:35",
+   "pagado": "2026-10-14T13:39",
+   "metodo": "yape",
+   "op": "OP81024885",
+   "boleta": "B001-003010",
+   "vence": "2026-10-23",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005211",
+   "user": "2024402281",
+   "tipo": "documento",
+   "tupa": "t-cmer",
+   "concepto": "Constancia de orden de mérito / tercio superior",
+   "items": [
+    [
+     "Constancia de orden de mérito / tercio superior",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-18T14:48",
+   "pagado": "2026-10-18T14:52",
+   "metodo": "plin",
+   "op": "OP81024916",
+   "boleta": "B001-003011",
+   "vence": "2026-10-23",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005212",
+   "user": "D-10452",
+   "tipo": "documento",
+   "tupa": "t-rez",
+   "concepto": "Derecho de examen de rezagados",
+   "items": [
+    [
+     "Derecho de examen de rezagados",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-20T14:42",
+   "pagado": "2026-10-20T14:46",
+   "metodo": "plin",
+   "op": "OP81025862",
+   "boleta": "B001-003012",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005213",
+   "user": "D-10452",
+   "tipo": "documento",
+   "tupa": "t-cegr",
+   "concepto": "Constancia de egresado",
+   "items": [
+    [
+     "Constancia de egresado",
+     1,
+     30
+    ]
+   ],
+   "estado": "pendiente",
+   "creado": "2026-10-15T15:55",
+   "pagado": null,
+   "metodo": null,
+   "op": null,
+   "boleta": null,
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005214",
+   "user": "A-20871",
+   "tipo": "documento",
+   "tupa": "t-cest",
+   "concepto": "Constancia de estudios",
+   "items": [
+    [
+     "Constancia de estudios",
+     1,
+     15
+    ]
+   ],
+   "estado": "pendiente",
+   "creado": "2026-10-17T15:49",
+   "pagado": null,
+   "metodo": null,
+   "op": null,
+   "boleta": null,
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005215",
+   "user": "A-20871",
+   "tipo": "documento",
+   "tupa": "t-record",
+   "concepto": "Récord académico",
+   "items": [
+    [
+     "Récord académico",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-12T16:02",
+   "pagado": "2026-10-12T16:06",
+   "metodo": "amex",
+   "op": "OP81026870",
+   "boleta": "B001-003015",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005216",
+   "user": "PG-0001",
+   "tipo": "documento",
+   "tupa": "t-cnoad",
+   "concepto": "Constancia de no adeudo",
+   "items": [
+    [
+     "Constancia de no adeudo",
+     1,
+     10
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-14T16:56",
+   "pagado": "2026-10-14T16:00",
+   "metodo": "amex",
+   "op": "OP81027816",
+   "boleta": "B001-003016",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005217",
+   "user": "PG-0001",
+   "tipo": "carne",
+   "tupa": "t-carne",
+   "concepto": "Carné universitario",
+   "items": [
+    [
+     "Carné universitario",
+     1,
+     25
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-18T08:09",
+   "pagado": "2026-10-18T08:13",
+   "metodo": "yape",
+   "op": "OP81027847",
+   "boleta": "B001-003017",
+   "vence": "2026-10-23",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005218",
+   "user": "2022115590",
+   "tipo": "documento",
+   "tupa": "t-cert",
+   "concepto": "Certificado de estudios",
+   "items": [
+    [
+     "Certificado de estudios",
+     1,
+     50
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-20T08:03",
+   "pagado": "2026-10-20T08:07",
+   "metodo": "yape",
+   "op": "OP81028793",
+   "boleta": "B001-003018",
+   "vence": "2026-10-23",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005219",
+   "user": "2022115590",
+   "tipo": "documento",
+   "tupa": "t-cmat",
+   "concepto": "Constancia de matrícula",
+   "items": [
+    [
+     "Constancia de matrícula",
+     1,
+     10
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-15T09:16",
+   "pagado": "2026-10-15T09:20",
+   "metodo": "plin",
+   "op": "OP81028824",
+   "boleta": "B001-003019",
+   "vence": "2026-10-23",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005220",
+   "user": "2023104512",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-19T09:00",
+   "pagado": "2026-10-20T09:00",
+   "metodo": "yape",
+   "op": "OP91000000",
+   "boleta": "B001-003500",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005221",
+   "user": "2022301877",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-18T09:00",
+   "pagado": "2026-10-19T10:09",
+   "metodo": "mastercard",
+   "op": "OP91001301",
+   "boleta": "B001-003501",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005222",
+   "user": "2024118230",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-17T09:00",
+   "pagado": "2026-10-18T11:18",
+   "metodo": "yape",
+   "op": "OP91002602",
+   "boleta": "B001-003502",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005223",
+   "user": "2023307615",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-16T09:00",
+   "pagado": "2026-10-17T12:27",
+   "metodo": "plin",
+   "op": "OP91003903",
+   "boleta": "B001-003503",
+   "sede": "capilla"
+  },
+  {
+   "id": "PAG-2026-005224",
+   "user": "2024402281",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-15T09:00",
+   "pagado": "2026-10-16T13:36",
+   "metodo": "visa",
+   "op": "OP91005204",
+   "boleta": "B001-003504",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "PAG-2026-005225",
+   "user": "2022115590",
+   "tipo": "matricula",
+   "concepto": "Matrícula regular 2026-2",
+   "items": [
+    [
+     "Derecho de matrícula regular 2026-2",
+     1,
+     60
+    ],
+    [
+     "Servicios de biblioteca y laboratorios",
+     1,
+     20
+    ]
+   ],
+   "estado": "pagado",
+   "creado": "2026-10-14T09:00",
+   "pagado": "2026-10-15T14:45",
+   "metodo": "amex",
+   "op": "OP91006505",
+   "boleta": "B001-003505",
+   "sede": "ayabacas"
+  }
+ ],
+ "others": {
+  "sols": [
+   {
+    "id": "SOL-2026-085300",
+    "user": "2023104512",
+    "sede": "capilla",
+    "kind": "doc",
+    "tupa": "t-cest",
+    "pago": "PAG-2026-005200",
+    "group": "listo",
+    "icon": "doc",
+    "iconLabel": "PAGADO",
+    "tone": "success",
+    "status": "Documento emitido · Listo para recoger",
+    "meta": [
+     [
+      "Fecha de registro",
+      "20/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 15.00 (Pagado)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Capilla"
+     ]
+    ],
+    "title": "Constancia de estudios",
+    "desc": "Solicitado por Lucía Fernanda Condori Apaza (Estudiante).",
+    "step": 4,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Estudiante",
+     "nombre": "Lucía Fernanda Condori Apaza",
+     "dni": "73581246",
+     "codigo": "2023104512",
+     "fac": "adm",
+     "correo": "2023104512@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-20T08:00"
+   },
+   {
+    "id": "SOL-2026-085301",
+    "user": "2022301877",
+    "sede": "capilla",
+    "kind": "doc",
+    "tupa": "t-cnoad",
+    "pago": "PAG-2026-005202",
+    "group": "tramite",
+    "icon": "doc",
+    "iconLabel": "PAGADO",
+    "tone": "warning",
+    "status": "Pagado · Por emitir",
+    "meta": [
+     [
+      "Fecha de registro",
+      "17/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 10.00 (Pagado)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Capilla"
+     ]
+    ],
+    "title": "Constancia de no adeudo",
+    "desc": "Solicitado por José Luis Ticona Huanca (Estudiante).",
+    "step": 2,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Estudiante",
+     "nombre": "José Luis Ticona Huanca",
+     "dni": "72910354",
+     "codigo": "2022301877",
+     "fac": "imc",
+     "correo": "2022301877@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-17T09:07"
+   },
+   {
+    "id": "SOL-2026-085302",
+    "user": "2024118230",
+    "sede": "ayabacas",
+    "kind": "doc",
+    "tupa": "t-cert",
+    "pago": "PAG-2026-005204",
+    "group": "tramite",
+    "icon": "doc",
+    "iconLabel": "PAGADO",
+    "tone": "warning",
+    "status": "Pagado · Por emitir",
+    "meta": [
+     [
+      "Fecha de registro",
+      "14/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 50.00 (Pagado)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Ayabacas"
+     ]
+    ],
+    "title": "Certificado de estudios",
+    "desc": "Solicitado por María Belén Quispe Choque (Estudiante).",
+    "step": 2,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Estudiante",
+     "nombre": "María Belén Quispe Choque",
+     "dni": "74125896",
+     "codigo": "2024118230",
+     "fac": "iia",
+     "correo": "2024118230@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-14T10:14"
+   },
+   {
+    "id": "SOL-2026-085303",
+    "user": "2021209944",
+    "sede": "salida-cuzco",
+    "kind": "doc",
+    "tupa": "t-silabo",
+    "pago": "PAG-2026-005206",
+    "group": "tramite",
+    "icon": "doc",
+    "iconLabel": "PAGO",
+    "tone": "warning",
+    "status": "Pago pendiente en Andara Pay",
+    "meta": [
+     [
+      "Fecha de registro",
+      "20/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 15.00 (Pendiente)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Salida Cuzco"
+     ]
+    ],
+    "title": "Sílabos certificados",
+    "desc": "Solicitado por Kevin Arturo Mamani Ccama (Egresado).",
+    "step": 1,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Egresado",
+     "nombre": "Kevin Arturo Mamani Ccama",
+     "dni": "71458963",
+     "codigo": "2021209944",
+     "fac": "iaf",
+     "correo": "2021209944@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-20T11:21"
+   },
+   {
+    "id": "SOL-2026-085304",
+    "user": "2023307615",
+    "sede": "capilla",
+    "kind": "doc",
+    "tupa": "t-ctrab",
+    "pago": "PAG-2026-005208",
+    "group": "tramite",
+    "icon": "doc",
+    "iconLabel": "PAGADO",
+    "tone": "warning",
+    "status": "Pagado · Por emitir",
+    "meta": [
+     [
+      "Fecha de registro",
+      "17/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 15.00 (Pagado)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Capilla"
+     ]
+    ],
+    "title": "Constancia de trabajo",
+    "desc": "Solicitado por Diana Rocío Flores Pari (Estudiante).",
+    "step": 2,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Estudiante",
+     "nombre": "Diana Rocío Flores Pari",
+     "dni": "73269514",
+     "codigo": "2023307615",
+     "fac": "eco",
+     "correo": "2023307615@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-17T12:28"
+   },
+   {
+    "id": "SOL-2026-085305",
+    "user": "2024402281",
+    "sede": "ayabacas",
+    "kind": "doc",
+    "tupa": "t-verif",
+    "pago": "PAG-2026-005210",
+    "group": "tramite",
+    "icon": "doc",
+    "iconLabel": "PAGADO",
+    "tone": "warning",
+    "status": "Pagado · Por emitir",
+    "meta": [
+     [
+      "Fecha de registro",
+      "14/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 15.00 (Pagado)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Ayabacas"
+     ]
+    ],
+    "title": "Constancia de verificación de grado o título",
+    "desc": "Solicitado por Rodrigo Andrés Huamán Coaquira (Estudiante).",
+    "step": 2,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Estudiante",
+     "nombre": "Rodrigo Andrés Huamán Coaquira",
+     "dni": "75632148",
+     "codigo": "2024402281",
+     "fac": "ier",
+     "correo": "2024402281@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-14T13:35"
+   },
+   {
+    "id": "SOL-2026-085306",
+    "user": "D-10452",
+    "sede": "capilla",
+    "kind": "doc",
+    "tupa": "t-rez",
+    "pago": "PAG-2026-005212",
+    "group": "listo",
+    "icon": "doc",
+    "iconLabel": "PAGADO",
+    "tone": "success",
+    "status": "Documento emitido · Listo para recoger",
+    "meta": [
+     [
+      "Fecha de registro",
+      "20/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 20.00 (Pagado)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Capilla"
+     ]
+    ],
+    "title": "Derecho de examen de rezagados",
+    "desc": "Solicitado por Mg. Elena Vilca Turpo (Docente).",
+    "step": 4,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Docente",
+     "nombre": "Mg. Elena Vilca Turpo",
+     "dni": "40125874",
+     "codigo": "D-10452",
+     "fac": "gpd",
+     "correo": "d-10452@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-20T14:42"
+   },
+   {
+    "id": "SOL-2026-085307",
+    "user": "A-20871",
+    "sede": "capilla",
+    "kind": "doc",
+    "tupa": "t-cest",
+    "pago": "PAG-2026-005214",
+    "group": "tramite",
+    "icon": "doc",
+    "iconLabel": "PAGO",
+    "tone": "warning",
+    "status": "Pago pendiente en Andara Pay",
+    "meta": [
+     [
+      "Fecha de registro",
+      "17/10/2026"
+     ],
+     [
+      "Derecho / Tasa",
+      "S/ 15.00 (Pendiente)"
+     ],
+     [
+      "Recojo",
+      "Mesa de Partes · Sede Capilla"
+     ]
+    ],
+    "title": "Constancia de estudios",
+    "desc": "Solicitado por Julio César Apaza Lima (Administrativo).",
+    "step": 1,
+    "acts": [
+     [
+      "secondary",
+      "route-sol",
+      "Ver hoja de ruta"
+     ]
+    ],
+    "solicitante": {
+     "tipo": "Administrativo",
+     "nombre": "Julio César Apaza Lima",
+     "dni": "42589631",
+     "codigo": "A-20871",
+     "fac": null,
+     "correo": "a-20871@unaj.edu.pe",
+     "motivo": "Trámite personal"
+    },
+    "fecha": "2026-10-17T15:49"
+   }
+  ],
+  "reservas": [
+   {
+    "id": "ro1",
+    "user": "2023104512",
+    "space": "Sala de Simulación Empresarial y Emprendimiento",
+    "date": "2026-10-21",
+    "hora": "10:00 - 12:00",
+    "status": "Pendiente",
+    "motivo": "Feria de emprendimiento del curso de Marketing",
+    "asist": 35
+   },
+   {
+    "id": "ro2",
+    "user": "D-10452",
+    "space": "Auditorio Magno",
+    "date": "2026-10-23",
+    "hora": "16:00 - 18:00",
+    "status": "Pendiente",
+    "motivo": "Conferencia de gestión pública regional",
+    "asist": 600
+   },
+   {
+    "id": "ro3",
+    "user": "2024118230",
+    "space": "Planta Piloto de Industrias Alimentarias",
+    "date": "2026-10-22",
+    "hora": "08:00 - 10:00",
+    "status": "Pendiente",
+    "motivo": "Práctica de elaboración de yogurt",
+    "asist": 20
+   },
+   {
+    "id": "ro4",
+    "user": "2022301877",
+    "space": "Laboratorio de Robótica y Automatización M-102",
+    "date": "2026-10-20",
+    "hora": "14:00 - 16:00",
+    "status": "Aprobado",
+    "motivo": "Pruebas del brazo robótico para concurso",
+    "asist": 12
+   },
+   {
+    "id": "ro5",
+    "user": "2021209944",
+    "space": "Laboratorio de Suelos y Calidad Ambiental",
+    "date": "2026-10-21",
+    "hora": "12:00 - 14:00",
+    "status": "Pendiente",
+    "motivo": "Análisis de muestras de tesis",
+    "asist": 6
+   }
+  ],
+  "hist": [
+   {
+    "id": "ho1",
+    "user": "2024402281",
+    "code": "EQ-2026-0471",
+    "name": "Analizador de energía Fluke 1738 + piranómetro",
+    "sub": "Solicitud para el 21/10/2026 (10:00) • 4 horas lectivas • Sede Ayabacas",
+    "status": "En revisión"
+   },
+   {
+    "id": "ho2",
+    "user": "2022301877",
+    "code": "EQ-2026-0468",
+    "name": "Osciloscopio digital Rigol DS1054Z",
+    "sub": "Solicitud para el 20/10/2026 (14:00) • 2 horas lectivas • Sede Capilla",
+    "status": "En revisión"
+   },
+   {
+    "id": "ho3",
+    "user": "2023307615",
+    "code": "EQ-2026-0459",
+    "name": "Laptop con Stata y EViews",
+    "sub": "Retirado hoy 08:30 • Sede Capilla",
+    "status": "Aprobado"
+   },
+   {
+    "id": "ho4",
+    "user": "2022115590",
+    "code": "EQ-2026-0450",
+    "name": "Dinamómetro textil y cuentahilos",
+    "sub": "Devuelto con éxito: 18/10/2026 • Sede Ayabacas",
+    "status": "Devuelto"
+   }
+  ]
+ },
+ "matricula": {
+  "periodo": "2026-2",
+  "estado": "pendiente",
+  "pago": "PAG-2026-004821"
+ },
+ "adminNotifs": [
+  {
+   "id": "an1",
+   "text": "3 reservas esperan tu aprobación.",
+   "to": "a-reservas",
+   "read": false
+  },
+  {
+   "id": "an2",
+   "text": "Nuevo pago confirmado por Yape: Constancia de estudios.",
+   "to": "a-pagos",
+   "read": false
+  },
+  {
+   "id": "an3",
+   "text": "2 préstamos de equipos en revisión.",
+   "to": "a-prestamos",
+   "read": true
+  }
+ ],
+ "session": null,
+ "reservas": [
+  {
+   "id": "r1",
+   "space": "Laboratorio Epier A-300",
+   "date": "2026-10-20",
+   "hora": "10:00 - 12:00",
+   "status": "Aprobado",
+   "motivo": "Práctica calificada de Redes",
+   "asist": 30
+  },
+  {
+   "id": "r2",
+   "space": "Auditorio Magno",
+   "date": "2026-10-20",
+   "hora": "10:00 - 12:00",
+   "status": "Pendiente",
+   "motivo": "Ceremonia de bienvenida del centro de estudiantes",
+   "asist": 400
+  },
+  {
+   "id": "r3",
+   "space": "Auditorio de Ingeniería · 5.º piso",
+   "date": "2026-10-20",
+   "hora": "10:00 - 12:00",
+   "status": "Rechazado",
+   "motivo": "Conversatorio de egresados",
+   "asist": 120,
+   "nota": "El auditorio ya tenía un evento institucional programado."
+  },
+  {
+   "id": "r4",
+   "space": "Auditorio de Ingeniería · 5.º piso",
+   "date": "2026-10-20",
+   "hora": "10:00 - 12:00",
+   "status": "Venció",
+   "motivo": "Ensayo de exposición final",
+   "asist": 40,
+   "nota": "La solicitud no fue confirmada antes de la fecha."
+  }
+ ],
+ "favDocs": [
+  "g1",
+  "m-iss"
+ ],
+ "myDocs": [
+  {
+   "id": "m1",
+   "name": "Constancia de matrícula 2026-1"
+  },
+  {
+   "id": "m2",
+   "name": "Certificado oficial de notas 2024-2 al 2026-1"
+  },
+  {
+   "id": "m3",
+   "name": "Ficha de matrícula 2026-1"
+  },
+  {
+   "id": "m4",
+   "name": "Boleta de pago de tasa SOL-2026-084920"
+  },
+  {
+   "id": "m5",
+   "name": "Cargo de entrega EQ-2026-0442"
+  }
+ ],
+ "myFav": [
+  "m1"
+ ],
+ "favEq": [
+  "e4",
+  "e9"
+ ],
+ "favSpaces": [
+  "epier-a300"
+ ],
+ "loan": {
+  "code": "EQ-2026-0419",
+  "item": "Proyector Láser Epson 4000L",
+  "retiro": "hoy a las 10:15 a. m.",
+  "deadline": "hora actual + 2h15m",
+  "renewed": false,
+  "incident": null,
+  "place": "Laboratorio Episs A-450 · Pabellón A (Piso 4) · Sede Capilla"
+ },
+ "hist": [
+  {
+   "id": "h1",
+   "code": "EQ-2026-0442",
+   "name": "Equipo de Sonido JBL EON One Pro + 2 Micrófonos Inalámbricos",
+   "sub": "Retiro programado: Mañana, 03/10/2026 (14:00 - 18:00) • Edificio Central",
+   "status": "Aprobado"
+  },
+  {
+   "id": "h2",
+   "code": "EQ-2026-0398",
+   "name": "Set de 2 Raquetas de Tenis Wilson + Tubo de Pelotas",
+   "sub": "Devuelto con éxito: 28/09/2026 (10:00 - 12:00) • Polideportivo UNAJ",
+   "status": "Devuelto"
+  },
+  {
+   "id": "h3",
+   "code": "EQ-2026-0371",
+   "name": "Guitarra Electroacústica Fender + Cable y Afinador",
+   "sub": "Devuelto con éxito: 20/09/2026 (16:00 - 18:00) • Sala de Música",
+   "status": "Devuelto"
+  },
+  {
+   "id": "h4",
+   "code": "EQ-2026-0455",
+   "name": "Consola de Grabación Podcast RodeCaster + 4 Micrófonos Shure",
+   "sub": "Solicitud registrada para el 08/10/2026 • Facultad de Ciencias de la Ingeniería",
+   "status": "En revisión"
+  },
+  {
+   "id": "h5",
+   "code": "EQ-2026-0340",
+   "name": "Cámara Sony Alpha A7 IV + Trípode Manfrotto",
+   "sub": "Devuelto con éxito: 15/09/2026 • Imagen Institucional",
+   "status": "Devuelto"
+  }
+ ],
+ "sols": [
+  {
+   "id": "SOL-2026-084920",
+   "pago": "PAG-2026-003112",
+   "kind": "doc",
+   "group": "listo",
+   "icon": "doc",
+   "iconLabel": "PDF • QR",
+   "tone": "success",
+   "status": "Documento Emitido y Firmado Digitalmente",
+   "meta": [
+    [
+     "Fecha de registro",
+     "22 de Septiembre, 2026"
+    ],
+    [
+     "Derecho / Tasa",
+     "S/ 38.00 (Pagado con Yape · Andara Pay)"
+    ],
+    [
+     "Unidad académica",
+     "EP Ingeniería de Software y Sistemas"
+    ]
+   ],
+   "title": "Certificado Oficial de Notas y Orden de Mérito (Ciclos 2024-2 al 2026-1)",
+   "desc": "Incluye promedio ponderado acumulado, ubicación en el tercio superior de Ingeniería Software y Sistemas y firma digital institucional con plena validez ante SUNEDU.",
+   "tags": [
+    "Firma Digital: Token UNAJ",
+    "Código de Validación: 4F82-K921"
+   ],
+   "acts": [
+    [
+     "primary",
+     "download-sol",
+     "Descargar Documento"
+    ],
+    [
+     "secondary",
+     "route-sol",
+     "Ver Hoja de Ruta"
+    ],
+    [
+     "tertiary",
+     "cargo-sol",
+     "Descargar Cargo de Entrega"
+    ]
+   ],
+   "step": 4
+  },
+  {
+   "id": "SOL-2026-085104",
+   "kind": "doc",
+   "group": "tramite",
+   "icon": "doc",
+   "iconLabel": "EN CURSO",
+   "tone": "warning",
+   "status": "En Revisión por Secretaría Académica",
+   "meta": [
+    [
+     "Fecha de registro",
+     "Ayer, 30 de Septiembre, 2026"
+    ],
+    [
+     "Derecho / Tasa",
+     "Gratuito (Primer ejemplar anual)"
+    ],
+    [
+     "Destino",
+     "Seguro Médico Universitario / EsSalud"
+    ]
+   ],
+   "title": "Constancia Oficial de Matrícula y Condición de Alumno Regular (2026-1)",
+   "desc": "Acredita inscripción semestral vigente en 21 créditos académicos, horarios vigentes y condición de estudiante hábil para trámites de convenios y prácticas.",
+   "step": 2,
+   "acts": [
+    [
+     "primary",
+     "route-sol",
+     "Rastrear Trazabilidad"
+    ],
+    [
+     "secondary",
+     "state-sol",
+     "Consultar Estado"
+    ],
+    [
+     "danger",
+     "desist-sol",
+     "Desistir / Anular Trámite"
+    ]
+   ]
+  },
+  {
+   "id": "SOL-2026-083991",
+   "kind": "obs",
+   "group": "observado",
+   "icon": "alert",
+   "iconLabel": "ALERTA",
+   "tone": "error",
+   "status": "Observado por Secretaría de Facultad",
+   "flag": true,
+   "meta": [
+    [
+     "Fecha de registro",
+     "18 de Septiembre, 2026"
+    ],
+    [
+     "Curso afectado",
+     "INF239 - Algoritmos Complejos"
+    ],
+    [
+     "Plazo subsanación",
+     "Vence en 36 horas"
+    ]
+   ],
+   "title": "Solicitud de Permiso y Justificación de Inasistencia por Salud",
+   "desc": "Permiso justificado a examen parcial por descanso médico. Requiere subsanar documento con visado del Servicio Médico UNAJ.",
+   "obs": "El certificado médico adjunto no cuenta con el sello del Servicio Médico UNAJ (Bienestar Universitario). Favor de pasar por validación médica virtual o presencial y adjuntar la constancia visada antes del plazo límite.",
+   "acts": [
+    [
+     "primary",
+     "fix-sol",
+     "Subsanar Documento"
+    ],
+    [
+     "secondary",
+     "obs-sol",
+     "Ver Observaciones"
+    ],
+    [
+     "tertiary",
+     "ask-sol",
+     "Consultar a Secretaría"
+    ]
+   ],
+   "step": 2
+  },
+  {
+   "id": "SOL-2026-LAB-0192",
+   "kind": "lab",
+   "group": "listo",
+   "icon": "lab",
+   "iconLabel": "LAB-V",
+   "tone": "success",
+   "status": "Laboratorio Asignado y Confirmado",
+   "meta": [
+    [
+     "Fecha de reserva",
+     "14 de Octubre, 2026 (08:00 - 12:00)"
+    ],
+    [
+     "Espacio / Lugar",
+     "Sede Capilla · Laboratorio Episs A-450"
+    ],
+    [
+     "Capacidad",
+     "35 Estaciones iMac M3"
+    ]
+   ],
+   "title": "Reserva Especial: Laboratorio de Cómputo para Taller de Machine Learning",
+   "desc": "Docente: Mg. Carlos Saldaña • Asignatura: CC304 • Software precargado: Docker, Python 3.12, PyTorch y entornos de desarrollo VS Code.",
+   "tags": [
+    "Código de Llave / Acceso: LAB-992-K",
+    "Técnico de Guardia Asignado: Makumba"
+   ],
+   "acts": [
+    [
+     "primary",
+     "pass-sol",
+     "Pase de Acceso / Llave"
+    ],
+    [
+     "secondary",
+     "resched-sol",
+     "Modificar Horario"
+    ],
+    [
+     "danger",
+     "cancel-sol",
+     "Cancelar Reserva"
+    ]
+   ],
+   "step": 4
+  },
+  {
+   "id": "SOL-2026-EQ-0442",
+   "kind": "eq",
+   "group": "listo",
+   "icon": "box",
+   "iconLabel": "EQUIPO",
+   "tone": "success",
+   "status": "Préstamo Aprobado y Listo para Retiro",
+   "meta": [
+    [
+     "Fecha de retiro",
+     "Mañana, 03 de Octubre, 2026 (14:00 - 18:00)"
+    ],
+    [
+     "Tipo de equipo",
+     "Sonido y Audio Profesional"
+    ],
+    [
+     "Duración",
+     "4 horas lectivas"
+    ]
+   ],
+   "title": "Equipo de Sonido Portátil JBL EON One Pro + 2 Micrófonos Inalámbricos",
+   "desc": "Solicitado para ensayo de elenco universitario. Equipo verificado con batería al 100%, cables XLR blindados y trípodes de soporte.",
+   "tags": [
+    "Código de Retiro: TIU-9842",
+    "Lugar de entrega: Sede Capilla · Pabellón Central (Audiovisuales)"
+   ],
+   "acts": [
+    [
+     "primary",
+     "cargo-sol",
+     "Ver Cargo Digital"
+    ],
+    [
+     "secondary",
+     "resched-sol",
+     "Modificar Retiro"
+    ],
+    [
+     "danger",
+     "cancel-sol",
+     "Cancelar Préstamo"
+    ]
+   ],
+   "step": 4
+  }
+ ],
+ "notifs": [
+  {
+   "id": "n1",
+   "text": "Tu expediente SOL-2026-083991 fue observado. Subsánalo antes de 36 horas.",
+   "to": "solicitudes",
+   "read": false
+  },
+  {
+   "id": "n2",
+   "text": "Préstamo EQ-2026-0419: devuelve el proyector hoy antes de las 15:30.",
+   "to": "equipos",
+   "read": false
+  },
+  {
+   "id": "n3",
+   "text": "Tu reserva del Laboratorio Epier A-300 fue aprobada.",
+   "to": "reservas",
+   "read": true
+  }
+ ],
+ "fechaReferencia": "2026-10-20",
+ "usuario": {
+  "nombre": "Carlos J. Saldaña",
+  "codigo": "2024207009",
+  "dni": "72458913",
+  "correo": "2024207009@est.unaj.edu.pe",
+  "celular": "951 234 567",
+  "escuela": "iss",
+  "sede": "capilla"
+ },
+ "cuentasDemo": {
+  "estudiante": {
+   "usuario": "2024207009 o DNI 72458913",
+   "contrasena": "andara2026"
+  },
+  "administrador": {
+   "nombre": "Rosa Mamani Quispe",
+   "cargo": "Especialista de Mesa de Partes y Tesorería",
+   "correo": "rmamani@unaj.edu.pe",
+   "contrasena": "admin2026"
+  }
+ },
+ "idioma": "es",
+ "preferenciasAviso": {
+  "whatsapp": true,
+  "correo": true,
+  "app": true
+ },
+ "mensajesEnviados": [],
+ "colaSinConexion": [],
+ "usosCarne": [
+  {
+   "lugar": "Biblioteca Central · Sede Capilla",
+   "diasAtras": 1,
+   "hora": "09:12",
+   "ok": true
+  },
+  {
+   "lugar": "Préstamo de equipos · Pabellón Central",
+   "diasAtras": 2,
+   "hora": "10:15",
+   "ok": true
+  },
+  {
+   "lugar": "Laboratorio Episs A-450",
+   "diasAtras": 3,
+   "hora": "08:02",
+   "ok": true
+  }
+ ]
+}

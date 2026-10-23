@@ -1,0 +1,1658 @@
+{
+ "sedes": [
+  {
+   "id": "capilla",
+   "name": "Capilla",
+   "full": "Sede La Capilla",
+   "desc": "Software y Sistemas, Industrial, Mecatrónica, Administración, Economía, Gestión Pública y auditorios",
+   "office": "Pabellón Administrativo · Ventanillas 1 a 6",
+   "hours": "Lunes a viernes de 08:30 a 18:00 hrs"
+  },
+  {
+   "id": "ayabacas",
+   "name": "Ayabacas",
+   "full": "Sede Ayabacas",
+   "desc": "Energías Renovables, Industrias Alimentarias y Textil y Confecciones",
+   "office": "Pabellón de Servicios Académicos · Ventanillas 1 a 4",
+   "hours": "Lunes a viernes de 08:00 a 16:00 hrs"
+  },
+  {
+   "id": "salida-cuzco",
+   "name": "Salida Cuzco",
+   "full": "Sede Salida Cuzco",
+   "desc": "Ingeniería Ambiental y Forestal",
+   "office": "Edificio Central · Ventanilla 1",
+   "hours": "Lunes a viernes de 08:30 a 17:00 hrs"
+  }
+ ],
+ "escuelas": [
+  {
+   "id": "adm",
+   "name": "Administración y Emprendimiento Empresarial",
+   "sede": "capilla"
+  },
+  {
+   "id": "eco",
+   "name": "Economía",
+   "sede": "capilla"
+  },
+  {
+   "id": "gpd",
+   "name": "Gestión Pública y Desarrollo Social",
+   "sede": "capilla"
+  },
+  {
+   "id": "iaf",
+   "name": "Ingeniería Ambiental y Forestal",
+   "sede": "salida-cuzco"
+  },
+  {
+   "id": "iss",
+   "name": "Ingeniería de Software y Sistemas",
+   "sede": "capilla"
+  },
+  {
+   "id": "ier",
+   "name": "Ingeniería en Energías Renovables",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "iia",
+   "name": "Ingeniería en Industrias Alimentarias",
+   "sede": "ayabacas"
+  },
+  {
+   "id": "iin",
+   "name": "Ingeniería Industrial",
+   "sede": "capilla"
+  },
+  {
+   "id": "imc",
+   "name": "Ingeniería Mecatrónica",
+   "sede": "capilla"
+  },
+  {
+   "id": "itc",
+   "name": "Ingeniería Textil y de Confecciones",
+   "sede": "ayabacas"
+  }
+ ],
+ "dependenciasAdministrativas": [
+  "Vicerrectorado Académico",
+  "Vicerrectorado de Investigación",
+  "Secretaría General",
+  "Dirección de Servicios Académicos",
+  "Oficina de Grados y Títulos",
+  "Unidad de Tesorería",
+  "Biblioteca Central",
+  "Bienestar Universitario"
+ ],
+ "espacios": [
+  {
+   "id": "episs-a450",
+   "name": "Laboratorio Episs A-450",
+   "type": "Laboratorio",
+   "cap": 50,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "iss",
+   "bld": "Pabellón A, 4.º piso"
+  },
+  {
+   "id": "lab-redes",
+   "name": "Laboratorio de Redes y Telecomunicaciones B-301",
+   "type": "Laboratorio",
+   "cap": 30,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "iss",
+   "bld": "Pabellón B, 3.er piso"
+  },
+  {
+   "id": "lab-robot",
+   "name": "Laboratorio de Robótica y Automatización M-102",
+   "type": "Laboratorio",
+   "cap": 25,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "imc",
+   "bld": "Pabellón de Mecatrónica"
+  },
+  {
+   "id": "taller-cnc",
+   "name": "Taller de Manufactura y Control Numérico (CNC)",
+   "type": "Taller",
+   "cap": 20,
+   "status": "Ocupado",
+   "sede": "capilla",
+   "fac": "imc",
+   "bld": "Pabellón de Mecatrónica"
+  },
+  {
+   "id": "lab-procesos",
+   "name": "Laboratorio de Procesos Industriales I-201",
+   "type": "Laboratorio",
+   "cap": 30,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "iin",
+   "bld": "Pabellón I, 2.º piso"
+  },
+  {
+   "id": "lab-ergo",
+   "name": "Laboratorio de Ergonomía y Estudio del Trabajo I-105",
+   "type": "Laboratorio",
+   "cap": 25,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "iin",
+   "bld": "Pabellón I, 1.er piso"
+  },
+  {
+   "id": "magno",
+   "name": "Auditorio Magno",
+   "type": "Auditorio",
+   "cap": 10000,
+   "status": "Disponible",
+   "sede": "capilla",
+   "bld": "Edificio Central"
+  },
+  {
+   "id": "aud5",
+   "name": "Auditorio de Ingeniería · 5.º piso",
+   "type": "Auditorio",
+   "cap": 300,
+   "status": "Ocupado",
+   "sede": "capilla",
+   "bld": "Edificio Central, 5.º piso"
+  },
+  {
+   "id": "aula-b108",
+   "name": "Aula B-108",
+   "type": "Aula",
+   "cap": 50,
+   "status": "Disponible",
+   "sede": "capilla",
+   "bld": "Pabellón B, 1.er piso"
+  },
+  {
+   "id": "aula-c210",
+   "name": "Aula C-210",
+   "type": "Aula",
+   "cap": 40,
+   "status": "Disponible",
+   "sede": "capilla",
+   "bld": "Pabellón C, 2.º piso"
+  },
+  {
+   "id": "aud-emp",
+   "name": "Auditorio de Ciencias Empresariales",
+   "type": "Auditorio",
+   "cap": 180,
+   "status": "Disponible",
+   "sede": "capilla",
+   "bld": "Pabellón E, 1.er piso"
+  },
+  {
+   "id": "aula-a101",
+   "name": "Aula A-101",
+   "type": "Aula",
+   "cap": 45,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "bld": "Pabellón A, 1.er piso"
+  },
+  {
+   "id": "sala-bib",
+   "name": "Sala de estudio grupal · Biblioteca Central",
+   "type": "Sala",
+   "cap": 12,
+   "status": "Disponible",
+   "sede": "capilla",
+   "bld": "Biblioteca Central"
+  },
+  {
+   "id": "epier-a300",
+   "name": "Laboratorio Epier A-300",
+   "type": "Laboratorio",
+   "cap": 50,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "fac": "ier",
+   "bld": "Pabellón A, 3.er piso"
+  },
+  {
+   "id": "lab-solar",
+   "name": "Laboratorio de Energía Solar Fotovoltaica",
+   "type": "Laboratorio",
+   "cap": 30,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "fac": "ier",
+   "bld": "Pabellón de Energías"
+  },
+  {
+   "id": "lab-eolica",
+   "name": "Laboratorio de Energía Eólica y Termofluidos",
+   "type": "Laboratorio",
+   "cap": 25,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "fac": "ier",
+   "bld": "Pabellón de Energías"
+  },
+  {
+   "id": "planta-piloto",
+   "name": "Planta Piloto de Industrias Alimentarias",
+   "type": "Taller",
+   "cap": 25,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "fac": "iia",
+   "bld": "Módulo de Plantas Piloto"
+  },
+  {
+   "id": "lab-alimentos",
+   "name": "Laboratorio de Análisis y Control de Alimentos",
+   "type": "Laboratorio",
+   "cap": 24,
+   "status": "Ocupado",
+   "sede": "ayabacas",
+   "fac": "iia",
+   "bld": "Pabellón C, 2.º piso"
+  },
+  {
+   "id": "lab-suelos",
+   "name": "Laboratorio de Suelos y Calidad Ambiental",
+   "type": "Laboratorio",
+   "cap": 30,
+   "status": "Disponible",
+   "sede": "salida-cuzco",
+   "fac": "iaf",
+   "bld": "Pabellón D"
+  },
+  {
+   "id": "vivero",
+   "name": "Vivero Forestal y Laboratorio de Dendrología",
+   "type": "Taller",
+   "cap": 20,
+   "status": "Disponible",
+   "sede": "salida-cuzco",
+   "fac": "iaf",
+   "bld": "Área de campo"
+  },
+  {
+   "id": "aula-b204",
+   "name": "Aula B-204",
+   "type": "Aula",
+   "cap": 40,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "bld": "Pabellón B, 2.º piso"
+  },
+  {
+   "id": "taller-conf",
+   "name": "Taller de Confección y Patronaje Industrial",
+   "type": "Taller",
+   "cap": 30,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "fac": "itc",
+   "bld": "Pabellón Textil"
+  },
+  {
+   "id": "lab-fibras",
+   "name": "Laboratorio de Fibras y Tintorería Textil",
+   "type": "Laboratorio",
+   "cap": 20,
+   "status": "Disponible",
+   "sede": "ayabacas",
+   "fac": "itc",
+   "bld": "Pabellón Textil"
+  },
+  {
+   "id": "sala-sim",
+   "name": "Sala de Simulación Empresarial y Emprendimiento",
+   "type": "Sala",
+   "cap": 40,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "adm",
+   "bld": "Pabellón E, 2.º piso"
+  },
+  {
+   "id": "lab-econo",
+   "name": "Laboratorio de Econometría y Estadística",
+   "type": "Laboratorio",
+   "cap": 35,
+   "status": "Ocupado",
+   "sede": "capilla",
+   "fac": "eco",
+   "bld": "Pabellón E, 3.er piso"
+  },
+  {
+   "id": "sala-gpd",
+   "name": "Sala de Gestión Pública y Gobierno Digital",
+   "type": "Sala",
+   "cap": 40,
+   "status": "Disponible",
+   "sede": "capilla",
+   "fac": "gpd",
+   "bld": "Pabellón F"
+  },
+  {
+   "id": "aula-c305",
+   "name": "Aula C-305 · Pabellón Ambiental",
+   "type": "Aula",
+   "cap": 45,
+   "status": "Disponible",
+   "sede": "salida-cuzco",
+   "bld": "Pabellón C, 3.er piso"
+  }
+ ],
+ "tiposDocumento": [
+  "Certificados",
+  "Constancias",
+  "Récord académico",
+  "Malla curricular",
+  "Plan de estudios",
+  "Sílabos",
+  "Reglamentos",
+  "Resoluciones",
+  "Directivas",
+  "Solicitudes y formularios",
+  "Formatos y plantillas",
+  "Calendario académico",
+  "Grados y títulos",
+  "Convalidaciones y traslados",
+  "Prácticas preprofesionales",
+  "Guías y manuales",
+  "Tarifario (TUPA)",
+  "Convenios",
+  "Comunicados"
+ ],
+ "documentos": [
+  {
+   "id": "g1",
+   "name": "Formato de solicitud de constancia de estudios",
+   "desc": "Plantilla editable para solicitar constancias a la Dirección de Servicios Académicos.",
+   "type": "Formatos y plantillas",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-03-02",
+   "freq": true,
+   "pages": 2
+  },
+  {
+   "id": "g2",
+   "name": "Reglamento general de matrícula 2026",
+   "desc": "Normas de inscripción, retiro de cursos y reserva de matrícula.",
+   "type": "Reglamentos",
+   "dep": "Vicerrectorado Académico",
+   "aud": "Estudiantes",
+   "date": "2026-01-20",
+   "freq": true,
+   "pages": 24
+  },
+  {
+   "id": "g3",
+   "name": "Resolución de calendario académico 2026",
+   "desc": "Fechas oficiales de los semestres 2026-1 y 2026-2, exámenes y feriados.",
+   "type": "Calendario académico",
+   "dep": "Vicerrectorado Académico",
+   "aud": "Público en General",
+   "date": "2025-12-15",
+   "freq": true,
+   "pages": 4
+  },
+  {
+   "id": "g4",
+   "name": "Solicitud de certificado de estudios",
+   "desc": "Formulario para pedir el certificado oficial con notas por semestre.",
+   "type": "Solicitudes y formularios",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-02-10",
+   "freq": true,
+   "pages": 1
+  },
+  {
+   "id": "g5",
+   "name": "Solicitud de récord académico",
+   "desc": "Formulario para obtener el récord de notas, créditos y promedio ponderado.",
+   "type": "Solicitudes y formularios",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-02-10",
+   "freq": false,
+   "pages": 1
+  },
+  {
+   "id": "g6",
+   "name": "Modelo de récord académico",
+   "desc": "Ejemplo del documento con créditos aprobados y orden de mérito.",
+   "type": "Récord académico",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-01-15",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "g7",
+   "name": "Modelo de certificado de estudios con firma digital",
+   "desc": "Referencia del certificado con código QR verificable.",
+   "type": "Certificados",
+   "dep": "Secretaría General",
+   "aud": "Público en General",
+   "date": "2026-04-07",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "g8",
+   "name": "Modelo de constancia de matrícula",
+   "desc": "Constancia de condición de estudiante regular para becas y convenios.",
+   "type": "Constancias",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-03-16",
+   "freq": false,
+   "pages": 1
+  },
+  {
+   "id": "g9",
+   "name": "Requisitos para constancia de egresado",
+   "desc": "Lista de requisitos, tasa y plazos de emisión.",
+   "type": "Constancias",
+   "dep": "Oficina de Grados y Títulos",
+   "aud": "Estudiantes",
+   "date": "2025-10-21",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "g10",
+   "name": "Reglamento de grados y títulos 2025",
+   "desc": "Procedimiento para bachillerato y título profesional.",
+   "type": "Grados y títulos",
+   "dep": "Oficina de Grados y Títulos",
+   "aud": "Estudiantes",
+   "date": "2025-08-11",
+   "freq": false,
+   "pages": 30
+  },
+  {
+   "id": "g11",
+   "name": "Reglamento de convalidaciones y traslados",
+   "desc": "Criterios para traslados internos, externos y convalidación de cursos.",
+   "type": "Convalidaciones y traslados",
+   "dep": "Vicerrectorado Académico",
+   "aud": "Estudiantes",
+   "date": "2024-09-05",
+   "freq": false,
+   "pages": 14
+  },
+  {
+   "id": "g12",
+   "name": "Texto Único de Procedimientos Administrativos (TUPA) 2026",
+   "desc": "Tasas y plazos de todos los trámites de la universidad.",
+   "type": "Tarifario (TUPA)",
+   "dep": "Unidad de Tesorería",
+   "aud": "Público en General",
+   "date": "2026-01-08",
+   "freq": true,
+   "pages": 18
+  },
+  {
+   "id": "g13",
+   "name": "Solicitud de devolución de tasa administrativa",
+   "desc": "Formulario de trámite para reintegro de pagos.",
+   "type": "Solicitudes y formularios",
+   "dep": "Unidad de Tesorería",
+   "aud": "Estudiantes",
+   "date": "2026-04-14",
+   "freq": false,
+   "pages": 1
+  },
+  {
+   "id": "g14",
+   "name": "Reglamento de préstamo de material bibliográfico",
+   "desc": "Plazos, renovaciones y sanciones de la Biblioteca Central.",
+   "type": "Reglamentos",
+   "dep": "Biblioteca Central",
+   "aud": "Público en General",
+   "date": "2024-05-20",
+   "freq": false,
+   "pages": 10
+  },
+  {
+   "id": "g15",
+   "name": "Directiva de uso de laboratorios y talleres",
+   "desc": "Reglas de acceso, tolerancia horaria y uso compartido en las tres sedes.",
+   "type": "Directivas",
+   "dep": "Vicerrectorado Académico",
+   "aud": "Docentes",
+   "date": "2025-03-18",
+   "freq": false,
+   "pages": 8
+  },
+  {
+   "id": "g16",
+   "name": "Formato de justificación de inasistencia",
+   "desc": "Plantilla para justificar faltas con sustento médico.",
+   "type": "Formatos y plantillas",
+   "dep": "Bienestar Universitario",
+   "aud": "Estudiantes",
+   "date": "2026-03-25",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "g17",
+   "name": "Guía de matrícula virtual 2026-2",
+   "desc": "Paso a paso para matricularte desde el sistema académico.",
+   "type": "Guías y manuales",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-07-28",
+   "freq": true,
+   "pages": 12
+  },
+  {
+   "id": "g18",
+   "name": "Resolución de becas y subvenciones 2026",
+   "desc": "Lista de beneficiarios y condiciones de la beca de alimentación.",
+   "type": "Resoluciones",
+   "dep": "Bienestar Universitario",
+   "aud": "Estudiantes",
+   "date": "2026-05-06",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "g19",
+   "name": "Convenio marco de prácticas preprofesionales",
+   "desc": "Acuerdo con empresas e instituciones de la región Puno.",
+   "type": "Convenios",
+   "dep": "Secretaría General",
+   "aud": "Público en General",
+   "date": "2025-11-03",
+   "freq": false,
+   "pages": 9
+  },
+  {
+   "id": "g20",
+   "name": "Reglamento de prácticas preprofesionales",
+   "desc": "Requisitos, informes y evaluación de prácticas.",
+   "type": "Prácticas preprofesionales",
+   "dep": "Vicerrectorado Académico",
+   "aud": "Estudiantes",
+   "date": "2025-07-14",
+   "freq": false,
+   "pages": 16
+  },
+  {
+   "id": "g21",
+   "name": "Comunicado: cronograma de exámenes de rezagados 2026-2",
+   "desc": "Fechas y aulas por sede para exámenes de rezagados.",
+   "type": "Comunicados",
+   "dep": "Dirección de Servicios Académicos",
+   "aud": "Estudiantes",
+   "date": "2026-10-01",
+   "freq": true,
+   "pages": 1
+  },
+  {
+   "id": "g22",
+   "name": "Reglamento de investigación y tesis",
+   "desc": "Líneas de investigación, asesoría y sustentación de tesis.",
+   "type": "Reglamentos",
+   "dep": "Vicerrectorado de Investigación",
+   "aud": "Docentes",
+   "date": "2025-06-30",
+   "freq": false,
+   "pages": 22
+  },
+  {
+   "id": "g23",
+   "name": "Directiva de trabajo remoto del personal administrativo",
+   "desc": "Lineamientos de teletrabajo y control de asistencia.",
+   "type": "Directivas",
+   "dep": "Secretaría General",
+   "aud": "Administrativos",
+   "date": "2025-02-12",
+   "freq": false,
+   "pages": 5
+  },
+  {
+   "id": "m-adm",
+   "fac": "adm",
+   "name": "Malla curricular 2024 · Administración y Emprendimiento Empresarial",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Administración y Emprendimiento Empresarial",
+   "aud": "Estudiantes",
+   "date": "2024-03-10",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-adm",
+   "fac": "adm",
+   "name": "Plan de estudios · Administración y Emprendimiento Empresarial",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Administración y Emprendimiento Empresarial",
+   "aud": "Público en General",
+   "date": "2024-03-20",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-adm",
+   "fac": "adm",
+   "name": "Sílabo Emprendimiento e Innovación",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Administración y Emprendimiento Empresarial",
+   "aud": "Estudiantes",
+   "date": "2026-08-03",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-eco",
+   "fac": "eco",
+   "name": "Malla curricular 2024 · Economía",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Economía",
+   "aud": "Estudiantes",
+   "date": "2024-04-11",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-eco",
+   "fac": "eco",
+   "name": "Plan de estudios · Economía",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Economía",
+   "aud": "Público en General",
+   "date": "2024-04-21",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-eco",
+   "fac": "eco",
+   "name": "Sílabo Microeconomía I",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Economía",
+   "aud": "Estudiantes",
+   "date": "2026-08-04",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-gpd",
+   "fac": "gpd",
+   "name": "Malla curricular 2024 · Gestión Pública y Desarrollo Social",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Gestión Pública y Desarrollo Social",
+   "aud": "Estudiantes",
+   "date": "2024-02-12",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-gpd",
+   "fac": "gpd",
+   "name": "Plan de estudios · Gestión Pública y Desarrollo Social",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Gestión Pública y Desarrollo Social",
+   "aud": "Público en General",
+   "date": "2024-02-22",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-gpd",
+   "fac": "gpd",
+   "name": "Sílabo Políticas Públicas y Gestión Territorial",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Gestión Pública y Desarrollo Social",
+   "aud": "Estudiantes",
+   "date": "2026-08-05",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-iaf",
+   "fac": "iaf",
+   "name": "Malla curricular 2024 · Ingeniería Ambiental y Forestal",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería Ambiental y Forestal",
+   "aud": "Estudiantes",
+   "date": "2024-05-13",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-iaf",
+   "fac": "iaf",
+   "name": "Plan de estudios · Ingeniería Ambiental y Forestal",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería Ambiental y Forestal",
+   "aud": "Público en General",
+   "date": "2024-05-23",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-iaf",
+   "fac": "iaf",
+   "name": "Sílabo Manejo Forestal Sostenible",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería Ambiental y Forestal",
+   "aud": "Estudiantes",
+   "date": "2026-08-06",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-iss",
+   "fac": "iss",
+   "name": "Malla curricular 2024 · Ingeniería de Software y Sistemas",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería de Software y Sistemas",
+   "aud": "Estudiantes",
+   "date": "2024-03-14",
+   "freq": true,
+   "pages": 2
+  },
+  {
+   "id": "p-iss",
+   "fac": "iss",
+   "name": "Plan de estudios · Ingeniería de Software y Sistemas",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería de Software y Sistemas",
+   "aud": "Público en General",
+   "date": "2024-03-24",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-iss",
+   "fac": "iss",
+   "name": "Sílabo INF239 Algoritmos Complejos",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería de Software y Sistemas",
+   "aud": "Estudiantes",
+   "date": "2026-08-07",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-ier",
+   "fac": "ier",
+   "name": "Malla curricular 2024 · Ingeniería en Energías Renovables",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería en Energías Renovables",
+   "aud": "Estudiantes",
+   "date": "2024-04-15",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-ier",
+   "fac": "ier",
+   "name": "Plan de estudios · Ingeniería en Energías Renovables",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería en Energías Renovables",
+   "aud": "Público en General",
+   "date": "2024-04-25",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-ier",
+   "fac": "ier",
+   "name": "Sílabo Energía Solar Fotovoltaica",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería en Energías Renovables",
+   "aud": "Estudiantes",
+   "date": "2026-08-08",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-iia",
+   "fac": "iia",
+   "name": "Malla curricular 2024 · Ingeniería en Industrias Alimentarias",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería en Industrias Alimentarias",
+   "aud": "Estudiantes",
+   "date": "2024-02-16",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-iia",
+   "fac": "iia",
+   "name": "Plan de estudios · Ingeniería en Industrias Alimentarias",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería en Industrias Alimentarias",
+   "aud": "Público en General",
+   "date": "2024-02-26",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-iia",
+   "fac": "iia",
+   "name": "Sílabo Tecnología de Productos Lácteos",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería en Industrias Alimentarias",
+   "aud": "Estudiantes",
+   "date": "2026-08-09",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-iin",
+   "fac": "iin",
+   "name": "Malla curricular 2024 · Ingeniería Industrial",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería Industrial",
+   "aud": "Estudiantes",
+   "date": "2024-03-17",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-iin",
+   "fac": "iin",
+   "name": "Plan de estudios · Ingeniería Industrial",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería Industrial",
+   "aud": "Público en General",
+   "date": "2024-03-27",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-iin",
+   "fac": "iin",
+   "name": "Sílabo Investigación de Operaciones",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería Industrial",
+   "aud": "Estudiantes",
+   "date": "2026-08-10",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-imc",
+   "fac": "imc",
+   "name": "Malla curricular 2024 · Ingeniería Mecatrónica",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería Mecatrónica",
+   "aud": "Estudiantes",
+   "date": "2024-05-18",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-imc",
+   "fac": "imc",
+   "name": "Plan de estudios · Ingeniería Mecatrónica",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería Mecatrónica",
+   "aud": "Público en General",
+   "date": "2024-05-28",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-imc",
+   "fac": "imc",
+   "name": "Sílabo Control Automático",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería Mecatrónica",
+   "aud": "Estudiantes",
+   "date": "2026-08-11",
+   "freq": false,
+   "pages": 6
+  },
+  {
+   "id": "m-itc",
+   "fac": "itc",
+   "name": "Malla curricular 2024 · Ingeniería Textil y de Confecciones",
+   "desc": "Cursos por ciclo, créditos, prerrequisitos y electivos del plan vigente.",
+   "type": "Malla curricular",
+   "dep": "Ingeniería Textil y de Confecciones",
+   "aud": "Estudiantes",
+   "date": "2024-04-10",
+   "freq": false,
+   "pages": 2
+  },
+  {
+   "id": "p-itc",
+   "fac": "itc",
+   "name": "Plan de estudios · Ingeniería Textil y de Confecciones",
+   "desc": "Perfil del egresado, competencias y sumillas de los cursos.",
+   "type": "Plan de estudios",
+   "dep": "Ingeniería Textil y de Confecciones",
+   "aud": "Público en General",
+   "date": "2024-04-20",
+   "freq": false,
+   "pages": 48
+  },
+  {
+   "id": "s-itc",
+   "fac": "itc",
+   "name": "Sílabo Tecnología de Hilandería",
+   "desc": "Contenidos, evaluación y bibliografía · semestre 2026-2.",
+   "type": "Sílabos",
+   "dep": "Ingeniería Textil y de Confecciones",
+   "aud": "Estudiantes",
+   "date": "2026-08-12",
+   "freq": false,
+   "pages": 6
+  }
+ ],
+ "categoriasEquipo": [
+  {
+   "id": "audio",
+   "name": "Sonido y Audio",
+   "desc": "Parlantes, micrófonos, consolas",
+   "icon": "speaker"
+  },
+  {
+   "id": "instrumentos",
+   "name": "Instrumentos",
+   "desc": "Teclados, guitarras, instrumentos andinos",
+   "icon": "music"
+  },
+  {
+   "id": "deportes",
+   "name": "Deportes",
+   "desc": "Balones, redes, conos",
+   "icon": "ball"
+  },
+  {
+   "id": "tecnologia",
+   "name": "Tecnología",
+   "desc": "Laptops, proyectores, cámaras, tablets",
+   "icon": "monitor"
+  },
+  {
+   "id": "laboratorio",
+   "name": "Laboratorio y campo",
+   "desc": "Instrumentos de medición y kits por escuela",
+   "icon": "lab"
+  }
+ ],
+ "equipos": [
+  {
+   "id": "e1",
+   "cat": "audio",
+   "label": "Audio / Sonido",
+   "name": "Equipo de Sonido JBL EON One Pro",
+   "specs": "Batería 6h • Bluetooth • Incluye 2 micrófonos inalámbricos y trípode",
+   "loc": "Pabellón Central (Módulo Audiovisuales)",
+   "point": "Pabellón Central",
+   "sede": "capilla",
+   "units": 3,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e2",
+   "cat": "deportes",
+   "label": "Deportes",
+   "name": "Kit Deportivo Fútbol & Vóley Molten",
+   "specs": "2 balones oficiales • Red portátil reglamentaria • Inflador y conos",
+   "loc": "Polideportivo (Sala de Deportes)",
+   "point": "Polideportivo",
+   "sede": "ayabacas",
+   "units": 5,
+   "unit": "kits",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e3",
+   "cat": "instrumentos",
+   "label": "Instrumentos",
+   "name": "Teclado Sintetizador Yamaha MX88",
+   "specs": "88 teclas contrapesadas • Pedal sustain • Soporte tijera y funda",
+   "loc": "Estudio de Música (Auditorio Magno)",
+   "point": "Auditorio Magno",
+   "sede": "capilla",
+   "units": 1,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e4",
+   "cat": "tecnologia",
+   "label": "Tecnología",
+   "name": "Proyector Láser Epson 4000L 4K",
+   "specs": "Ultra brillo para auditorio • Conexión HDMI/Wireless • Ecran portátil",
+   "loc": "Edificio Central (Piso 2)",
+   "point": "Edificio Central",
+   "sede": "capilla",
+   "units": 4,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e5",
+   "cat": "deportes",
+   "label": "Deportes",
+   "name": "Balón de fútbol y conos",
+   "specs": "2 balones de fútsal • 4 conos • Funda térmica",
+   "loc": "Cancha de fútbol (Módulo deportivo)",
+   "point": "Módulo deportivo",
+   "sede": "salida-cuzco",
+   "units": 6,
+   "unit": "sets",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e6",
+   "cat": "tecnologia",
+   "label": "Audiovisual",
+   "name": "Cámara Sony Alpha A7 IV + Micrófono",
+   "specs": "Lente 24-70mm f/2.8 • Trípode Manfrotto • Luz LED y tarjeta 128GB",
+   "loc": "Edificio Administrativo (Imagen Institucional)",
+   "point": "Edificio Administrativo",
+   "sede": "capilla",
+   "units": 0,
+   "unit": "unid.",
+   "mode": "turno",
+   "next": "16:00"
+  },
+  {
+   "id": "e7",
+   "cat": "instrumentos",
+   "label": "Instrumentos",
+   "name": "Guitarra Electroacústica Fender CD-60",
+   "specs": "Afinador integrado • Cable blindado 5m • Funda acolchada y capodastro",
+   "loc": "Sala de Ensayos (Auditorio Magno)",
+   "point": "Auditorio Magno",
+   "sede": "capilla",
+   "units": 2,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e8",
+   "cat": "deportes",
+   "label": "Deportes",
+   "name": "Set de Balones y Conos de Entrenamiento",
+   "specs": "Balones de básquet Spalding • Escalera de coordinación y cronómetro",
+   "loc": "Gimnasio (Pabellón Deportivo)",
+   "point": "Pabellón Deportivo",
+   "sede": "capilla",
+   "units": 8,
+   "unit": "sets",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e9",
+   "cat": "audio",
+   "label": "Audio / Sonido",
+   "name": "Kit Microfonía Inalámbrica Shure BLX",
+   "specs": "Receptor dual • 2 micrófonos corbateros inalámbricos • Estuche rígido",
+   "loc": "Edificio Central (Módulo de secretaría)",
+   "point": "Edificio Central",
+   "sede": "capilla",
+   "units": 3,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e10",
+   "cat": "laboratorio",
+   "label": "Mecatrónica",
+   "fac": "imc",
+   "name": "Kit Arduino Mega + sensores industriales",
+   "specs": "Placa Mega 2560 • Servomotores • Sensores inductivos y ultrasónicos",
+   "loc": "Laboratorio de Robótica M-102",
+   "point": "Pabellón de Mecatrónica",
+   "sede": "capilla",
+   "units": 6,
+   "unit": "kits",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e11",
+   "cat": "laboratorio",
+   "label": "Mecatrónica",
+   "fac": "imc",
+   "name": "Osciloscopio digital Rigol DS1054Z",
+   "specs": "4 canales • 50 MHz • Puntas de prueba x10",
+   "loc": "Laboratorio de Robótica M-102",
+   "point": "Pabellón de Mecatrónica",
+   "sede": "capilla",
+   "units": 2,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e12",
+   "cat": "laboratorio",
+   "label": "Industrial",
+   "fac": "iin",
+   "name": "Cronómetro y tablero de estudio de tiempos",
+   "specs": "Cronómetro centesimal • Tablero con clip • Formatos de muestreo",
+   "loc": "Laboratorio de Ergonomía I-105",
+   "point": "Pabellón I",
+   "sede": "capilla",
+   "units": 10,
+   "unit": "sets",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e13",
+   "cat": "tecnologia",
+   "label": "Software y Sistemas",
+   "fac": "iss",
+   "name": "Laptop Dell Latitude para desarrollo",
+   "specs": "Core i7 • 16 GB RAM • Docker, Python 3.12 y VS Code",
+   "loc": "Laboratorio Episs A-450",
+   "point": "Pabellón A",
+   "sede": "capilla",
+   "units": 5,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e14",
+   "cat": "laboratorio",
+   "label": "Energías Renovables",
+   "fac": "ier",
+   "name": "Analizador de energía Fluke 1738 + piranómetro",
+   "specs": "Registro trifásico • Sensor de radiación solar • Software de análisis",
+   "loc": "Laboratorio de Energía Solar Fotovoltaica",
+   "point": "Pabellón de Energías",
+   "sede": "ayabacas",
+   "units": 2,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e15",
+   "cat": "laboratorio",
+   "label": "Ambiental y Forestal",
+   "fac": "iaf",
+   "name": "Kit de muestreo de suelos y agua",
+   "specs": "pHmetro • Conductímetro • Barreno y frascos estériles",
+   "loc": "Laboratorio de Suelos y Calidad Ambiental",
+   "point": "Pabellón D",
+   "sede": "salida-cuzco",
+   "units": 4,
+   "unit": "kits",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e16",
+   "cat": "laboratorio",
+   "label": "Ambiental y Forestal",
+   "fac": "iaf",
+   "name": "GPS diferencial y clinómetro forestal",
+   "specs": "Precisión submétrica • Hipsómetro Suunto • Cinta diamétrica",
+   "loc": "Vivero Forestal",
+   "point": "Área de campo",
+   "sede": "salida-cuzco",
+   "units": 0,
+   "unit": "unid.",
+   "mode": "turno",
+   "next": "14:00"
+  },
+  {
+   "id": "e17",
+   "cat": "laboratorio",
+   "label": "Industrias Alimentarias",
+   "fac": "iia",
+   "name": "Refractómetro digital y balanza analítica",
+   "specs": "Rango 0–85 °Brix • Balanza 0.0001 g • Estuche",
+   "loc": "Planta Piloto de Industrias Alimentarias",
+   "point": "Módulo de Plantas Piloto",
+   "sede": "ayabacas",
+   "units": 3,
+   "unit": "sets",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e18",
+   "cat": "audio",
+   "label": "Audio / Sonido",
+   "name": "Parlante portátil Bose S1 Pro",
+   "specs": "Batería 11h • Mezclador de 3 canales • Bluetooth",
+   "loc": "Edificio de Servicios",
+   "point": "Edificio de Servicios",
+   "sede": "ayabacas",
+   "units": 2,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e19",
+   "cat": "laboratorio",
+   "label": "Textil y Confecciones",
+   "fac": "itc",
+   "name": "Dinamómetro textil y cuentahilos",
+   "specs": "Ensayo de tracción • Lupa 10x • Muestras patrón",
+   "loc": "Laboratorio de Fibras y Tintorería",
+   "point": "Pabellón Textil",
+   "sede": "ayabacas",
+   "units": 2,
+   "unit": "sets",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e20",
+   "cat": "tecnologia",
+   "label": "Economía",
+   "fac": "eco",
+   "name": "Laptop con Stata y EViews",
+   "specs": "Core i5 • 16 GB RAM • Licencias académicas de Stata 18 y EViews 13",
+   "loc": "Laboratorio de Econometría",
+   "point": "Pabellón E",
+   "sede": "capilla",
+   "units": 6,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e21",
+   "cat": "tecnologia",
+   "label": "Administración",
+   "fac": "adm",
+   "name": "Tablet con sistema de punto de venta",
+   "specs": "Samsung Galaxy Tab • Lector de códigos • Impresora térmica",
+   "loc": "Sala de Simulación Empresarial",
+   "point": "Pabellón E",
+   "sede": "capilla",
+   "units": 4,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e22",
+   "cat": "tecnologia",
+   "label": "Gestión Pública",
+   "fac": "gpd",
+   "name": "Proyector portátil Epson + ecran",
+   "specs": "3600 lúmenes • HDMI • Ecran trípode de 100\"",
+   "loc": "Sala de Gestión Pública",
+   "point": "Pabellón F",
+   "sede": "capilla",
+   "units": 3,
+   "unit": "unid.",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e23",
+   "cat": "instrumentos",
+   "label": "Instrumentos",
+   "name": "Set de zampoñas y charango",
+   "specs": "Zampoñas sicu malta y chuli • Charango con funda",
+   "loc": "Sala de Elencos (Auditorio Magno)",
+   "point": "Auditorio Magno",
+   "sede": "capilla",
+   "units": 4,
+   "unit": "sets",
+   "mode": "prestamo"
+  },
+  {
+   "id": "e24",
+   "cat": "deportes",
+   "label": "Deportes",
+   "name": "Kit de vóley y básquet",
+   "specs": "2 balones Mikasa • 2 balones Molten • Inflador",
+   "loc": "Losa deportiva",
+   "point": "Losa deportiva",
+   "sede": "ayabacas",
+   "units": 4,
+   "unit": "kits",
+   "mode": "prestamo"
+  }
+ ],
+ "bloquesHorarios": [
+  "08:00 - 10:00",
+  "10:00 - 12:00",
+  "12:00 - 14:00",
+  "14:00 - 16:00",
+  "16:00 - 18:00"
+ ],
+ "tarifario": [
+  {
+   "id": "t-cest",
+   "name": "Constancia de estudios",
+   "cat": "Constancias",
+   "monto": 15,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado"
+   ],
+   "tpl": "constancia",
+   "desc": "Acredita que cursas estudios en la universidad."
+  },
+  {
+   "id": "t-cmat",
+   "name": "Constancia de matrícula",
+   "cat": "Constancias",
+   "monto": 10,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante"
+   ],
+   "tpl": "constancia",
+   "desc": "Acredita tu matrícula vigente en el semestre."
+  },
+  {
+   "id": "t-cegr",
+   "name": "Constancia de egresado",
+   "cat": "Constancias",
+   "monto": 30,
+   "entrega": "mismo",
+   "aud": [
+    "Egresado"
+   ],
+   "tpl": "constancia",
+   "desc": "Acredita que culminaste tu plan de estudios."
+  },
+  {
+   "id": "t-cmer",
+   "name": "Constancia de orden de mérito / tercio superior",
+   "cat": "Constancias",
+   "monto": 20,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado"
+   ],
+   "tpl": "constancia",
+   "desc": "Ubicación en el orden de mérito de tu escuela."
+  },
+  {
+   "id": "t-cnoad",
+   "name": "Constancia de no adeudo",
+   "cat": "Constancias",
+   "monto": 10,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado",
+    "Docente",
+    "Administrativo"
+   ],
+   "tpl": "constancia",
+   "desc": "Acredita que no tienes deudas con biblioteca ni laboratorios."
+  },
+  {
+   "id": "t-ctrab",
+   "name": "Constancia de trabajo",
+   "cat": "Constancias",
+   "monto": 15,
+   "entrega": "mismo",
+   "aud": [
+    "Docente",
+    "Administrativo"
+   ],
+   "tpl": "constancia",
+   "desc": "Para docentes y personal administrativo."
+  },
+  {
+   "id": "t-record",
+   "name": "Récord académico",
+   "cat": "Académicos",
+   "monto": 20,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado"
+   ],
+   "tpl": "record",
+   "desc": "Notas, créditos aprobados y promedio ponderado."
+  },
+  {
+   "id": "t-cert",
+   "name": "Certificado de estudios",
+   "cat": "Certificados",
+   "monto": 50,
+   "entrega": "3",
+   "aud": [
+    "Estudiante",
+    "Egresado"
+   ],
+   "tpl": "certificado",
+   "desc": "Certificado oficial de notas por semestre con firma digital."
+  },
+  {
+   "id": "t-silabo",
+   "name": "Sílabos certificados",
+   "cat": "Académicos",
+   "monto": 5,
+   "unidad": "por curso",
+   "qty": true,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado",
+    "Docente"
+   ],
+   "tpl": "constancia",
+   "desc": "Copia certificada de sílabos para convalidaciones."
+  },
+  {
+   "id": "t-malla",
+   "name": "Malla curricular certificada",
+   "cat": "Académicos",
+   "monto": 15,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado",
+    "Público en general"
+   ],
+   "tpl": "constancia",
+   "desc": "Plan de estudios con créditos y prerrequisitos."
+  },
+  {
+   "id": "t-carne",
+   "name": "Carné universitario",
+   "cat": "Carné",
+   "monto": 25,
+   "entrega": "carne",
+   "aud": [
+    "Estudiante"
+   ],
+   "tpl": "carne",
+   "desc": "Carné universitario del semestre con tu foto."
+  },
+  {
+   "id": "t-dupcarne",
+   "name": "Duplicado de carné universitario",
+   "cat": "Carné",
+   "monto": 25,
+   "entrega": "carne",
+   "aud": [
+    "Estudiante"
+   ],
+   "tpl": "carne",
+   "desc": "Por pérdida o deterioro del carné."
+  },
+  {
+   "id": "t-rez",
+   "name": "Derecho de examen de rezagados",
+   "cat": "Académicos",
+   "monto": 20,
+   "entrega": "inmediato",
+   "aud": [
+    "Estudiante"
+   ],
+   "tpl": null,
+   "desc": "Habilita tu examen de rezagados en el curso indicado."
+  },
+  {
+   "id": "t-copia",
+   "name": "Copia certificada de resolución",
+   "cat": "Administrativos",
+   "monto": 10,
+   "entrega": "mismo",
+   "aud": [
+    "Estudiante",
+    "Egresado",
+    "Docente",
+    "Administrativo",
+    "Público en general"
+   ],
+   "tpl": "constancia",
+   "desc": "Copia fedateada de una resolución institucional."
+  },
+  {
+   "id": "t-verif",
+   "name": "Constancia de verificación de grado o título",
+   "cat": "Administrativos",
+   "monto": 15,
+   "entrega": "mismo",
+   "aud": [
+    "Público en general",
+    "Administrativo"
+   ],
+   "tpl": "constancia",
+   "desc": "Verifica el grado o título de un egresado."
+  },
+  {
+   "id": "t-bach",
+   "name": "Derecho de grado de bachiller",
+   "cat": "Grados y títulos",
+   "monto": 350,
+   "entrega": "15",
+   "aud": [
+    "Egresado"
+   ],
+   "tpl": null,
+   "desc": "Inicia el trámite de tu grado de bachiller."
+  }
+ ],
+ "tiposSolicitante": [
+  "Estudiante",
+  "Egresado",
+  "Docente",
+  "Administrativo",
+  "Público en general"
+ ],
+ "usuarios": [
+  {
+   "code": "2023104512",
+   "name": "Lucía Fernanda Condori Apaza",
+   "dni": "73581246",
+   "tipo": "Estudiante",
+   "fac": "adm",
+   "sede": "capilla"
+  },
+  {
+   "code": "2022301877",
+   "name": "José Luis Ticona Huanca",
+   "dni": "72910354",
+   "tipo": "Estudiante",
+   "fac": "imc",
+   "sede": "capilla"
+  },
+  {
+   "code": "2024118230",
+   "name": "María Belén Quispe Choque",
+   "dni": "74125896",
+   "tipo": "Estudiante",
+   "fac": "iia",
+   "sede": "ayabacas"
+  },
+  {
+   "code": "2021209944",
+   "name": "Kevin Arturo Mamani Ccama",
+   "dni": "71458963",
+   "tipo": "Egresado",
+   "fac": "iaf",
+   "sede": "salida-cuzco"
+  },
+  {
+   "code": "2023307615",
+   "name": "Diana Rocío Flores Pari",
+   "dni": "73269514",
+   "tipo": "Estudiante",
+   "fac": "eco",
+   "sede": "capilla"
+  },
+  {
+   "code": "2024402281",
+   "name": "Rodrigo Andrés Huamán Coaquira",
+   "dni": "75632148",
+   "tipo": "Estudiante",
+   "fac": "ier",
+   "sede": "ayabacas"
+  },
+  {
+   "code": "D-10452",
+   "name": "Mg. Elena Vilca Turpo",
+   "dni": "40125874",
+   "tipo": "Docente",
+   "fac": "gpd",
+   "sede": "capilla"
+  },
+  {
+   "code": "A-20871",
+   "name": "Julio César Apaza Lima",
+   "dni": "42589631",
+   "tipo": "Administrativo",
+   "fac": null,
+   "sede": "capilla"
+  },
+  {
+   "code": "PG-0001",
+   "name": "Ana Patricia Ramos Soto",
+   "dni": "46987213",
+   "tipo": "Público en general",
+   "fac": null,
+   "sede": "capilla"
+  },
+  {
+   "code": "2022115590",
+   "name": "Brayan Smith Choque Laura",
+   "dni": "72365418",
+   "tipo": "Estudiante",
+   "fac": "itc",
+   "sede": "ayabacas"
+  }
+ ]
+}
